@@ -1,3 +1,5 @@
+// To start type in terminal: npm start
+
 import logo from './logo.svg';
 import './App.css';
 import {useState} from 'react'
