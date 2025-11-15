@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <MSTest>
+    <AssemblyResolution>
+      <!-- by absolute path -->
+      <!--<Directory path="C:\source\repos\QuickPoC\DynamicAssemblyLoading\DynamicAssemblyLoading\bin" includeSubDirectories="false"/>--> 
+      <!-- by relative path -->
+      <Directory path="..\..\..\DynamicAssemblyLoading\bin" includeSubDirectories="false"/>      
+    </AssemblyResolution>
+  </MSTest>
+</RunSettings>
